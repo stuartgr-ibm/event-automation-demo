@@ -78,3 +78,4 @@ spec:
         artifacts:
           - type: jar
             url: https://github.com/ibm-messaging/kafka-connect-mq-source/releases/download/v2.3.0/kafka-connect-mq-source-2.3.0-jar-with-dependencies.jar
+THIS IS A TEST PULL
